@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_numbers - print 0123456789
- * owned by Joush Tech
- * Return: void
- */
+*print_numbers - print 0123456789
+* owned by Joush Tech
+*Return: void
+*/
 
 void print_numbers(void)
 {
