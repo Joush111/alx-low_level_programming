@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_line - print lines on the terminal base
+ * print_line - print lines on the terminal base on n
  * @n: number of lines to be printed
  */
 
