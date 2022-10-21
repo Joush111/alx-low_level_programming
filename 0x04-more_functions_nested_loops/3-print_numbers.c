@@ -2,7 +2,6 @@
 
 /**
  * print_numbers - print number from 0-9
- *
  * Return: void
  */
 
