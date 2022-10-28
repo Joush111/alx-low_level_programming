@@ -31,7 +31,7 @@ void print_buffer(char *b, int size)
 				if (z >= size)
 					break;
 				if (b[z] < ' ' || b[z] > '~')
-					puchar('.');
+					putchar('.');
 				else
 					putchar(b[z]);
 			}
